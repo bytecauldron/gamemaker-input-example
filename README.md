@@ -1,8 +1,12 @@
-# GameMaker Input Multiplayer Example
+<p align="center">
+    <img src="input_example.png" />
+</p>
 
-This is an example project released along with my Input guide on YouTube:
+## GameMaker 2 Local Multiplayer Example with Input
 
-This project demonstrates the following:
+Tested in GameMaker 2 IDE v2022.2.1.618 and Runtime v2022.2.1.491.
+
+This is an example project released along with my [Input Guide on YouTube](https://youtu.be/y-gGVmnUfdQ) and demonstrates the following:
 
 + How to create an input manager object to bind both keyboard and gamepad controls.
 + How to watch, bind, and instantiate new players with `input_source_detect_any()`
