@@ -2,7 +2,9 @@
     <img src="input_example.png" />
 </p>
 
-## GameMaker 2 Local Multiplayer Example with Input
+## GameMaker 2 Local Multiplayer Example with Input 4
+
+**Please Note:** Input 5 will not work with this. The latest multiplayer example is available on the official repo.
 
 Tested in GameMaker 2 IDE v2022.2.1.618 and Runtime v2022.2.1.491.
 
